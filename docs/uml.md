@@ -1,4 +1,4 @@
-# UML Style Diagrams
+# UML Diagrams
 
 GitHub supports Mermaid diagrams inside Markdown.
 
