@@ -62,3 +62,6 @@ notes/      Commands and troubleshooting notes
 ## Status
 
 Initial repository setup for the lazycoffee homelab project.
+
+[![GitWidgets](https://git-widgets.vercel.app/api/profile-tag?username=LeGi0N09)](https://github.com/LeGi0N09/GitWidgets)
+
