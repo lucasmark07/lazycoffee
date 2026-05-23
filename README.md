@@ -1,4 +1,4 @@
-# lazycoffee [![GitWidgets](https://git-widgets.vercel.app/api/profile-tag?username=lucasmark07&theme=darkmode)](https://github.com/lucasmark07/GitWidgets)
+# lazycoffee
 
 Personal self-hosted homelab server for AI, cloud storage, automation, and secure private access.
 
@@ -61,7 +61,6 @@ notes/      Commands and troubleshooting notes
 
 ## Status
 
-Initial repository setup for the lazycoffee homelab project.
-
+Initial repository setup for the lazycoffee homelab project created by
 [![GitWidgets](https://git-widgets.vercel.app/api/profile-tag?username=lucasmark07&theme=darkmode)](https://github.com/lucasmark07/GitWidgets)
 
