@@ -59,9 +59,6 @@ scripts/    Setup and backup scripts
 notes/      Commands and troubleshooting notes
 ```
 
-## Status
-
-Initial repository setup for the lazycoffee homelab project created by
 
 [![GitWidgets](https://git-widgets.vercel.app/api/profile-tag?username=lucasmark07&theme=darkmode)](https://github.com/lucasmark07/GitWidgets)
 
