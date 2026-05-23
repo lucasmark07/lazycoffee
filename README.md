@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=lazycoffee&font=Fira%500Code¢er=true&width=380&height=50)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=lazycoffee&font=Fira%20Code¢er=true&width=500&height=50)
 
 Personal self-hosted homelab server for AI, cloud storage, automation, and secure private access.
 
