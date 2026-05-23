@@ -1,4 +1,4 @@
-# lazycoffee
+# lazycoffee [![GitWidgets](https://git-widgets.vercel.app/api/profile-tag?username=lucasmark07&theme=darkmode)](https://github.com/lucasmark07/GitWidgets)
 
 Personal self-hosted homelab server for AI, cloud storage, automation, and secure private access.
 
