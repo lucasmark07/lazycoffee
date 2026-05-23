@@ -1,4 +1,4 @@
-#lazycoffee 
+# lazycoffee 
 
 Personal self-hosted homelab server for AI, cloud storage, automation, and secure private access.
 
