@@ -1,0 +1,29 @@
+# Environment and secrets
+.env
+*.env
+secrets/
+*.key
+*.pem
+*.crt
+
+# Docker/runtime data
+volumes/
+data/
+backups/
+*.backup
+*.tar
+*.tar.gz
+*.zip
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+.cache/
