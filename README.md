@@ -62,7 +62,6 @@ notes/      Commands and troubleshooting notes
 
 [![GitWidgets](https://git-widgets.vercel.app/api/profile-tag?username=lucasmark07&theme=darkmode)](https://github.com/lucasmark07/GitWidgets)
 
-```text
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
